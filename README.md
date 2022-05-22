@@ -1,5 +1,5 @@
 # Astah_2022_AplicativoGPS
-Diagrama desenvolvido com a ferramenta Astah UML. unicesumar - 2022/01
+Diagrama desenvolvido com a ferramenta Astah UML. Unicesumar - 2022/01
 ---
 
 ## Exercício proposto:
@@ -16,6 +16,7 @@ Você foi responsável por modelar as classes de entidades para atender os requi
 
 Nesta situação desenvolva o diagrama de classes que represente a solução para o problema apresentado.
 
+---
 ## Connect With Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eduardo-w-ungefehr-838226101/)](https://www.linkedin.com/in/eduardo-w-ungefehr-838226101/)
